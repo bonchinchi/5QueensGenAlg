@@ -2,7 +2,9 @@
 
 Explanation with examples of solving 5-Queens problem by using Genetic Algorithm.
 
-![Image 1](usedImages/1.png)
+<p align="center">
+  <img width="700" height="280" src="usedImages/1.png">
+</p>
 
 ## Author
 
