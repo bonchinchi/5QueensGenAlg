@@ -1,2 +1,2 @@
-# 5QueensGenAlg
-Solving 5 Queens problem using Genetic Algorithm
+# Solving 5 Queens problem using Genetic Algorithm
+
